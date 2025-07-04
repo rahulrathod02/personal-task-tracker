@@ -51,13 +51,9 @@ A simple and intuitive personal task management application built with React. Th
 🔗 Live Demo
 https://personaltasktracker.vercel.app/
 
-🖼 Screenshots
 
-Login Screen		
-[https://./screenshots/login.png](https://github.com/rahulrathod02/personal-task-tracker/blob/39d253abbef9ca9c376ebf267b9fba47086fd888/src/screenshots/completed.png)	
+## 🖼 Screenshots
 
-Task Dashboard
-[https://./screenshots/dashboard.png](https://github.com/rahulrathod02/personal-task-tracker/blob/a4994b8cb5fb12bedfb1b8658cf1b2dc2ec76eb6/src/screenshots/dashboard.png)	
-
-Completed Tasks
-[https://github.com/rahulrathod02/personal-task-tracker/blob/9993fc36ea1eb3f6956d6b0b811cbc0a55a68060/src/screenshots/completed.png)
+| Login Screen | Task Dashboard | Completed Tasks |
+|--------------|----------------|-----------------|
+| <img src="./screenshots/login.png" width="300"> | <img src="./screenshots/dashboard.png" width="300"> | <img src="./screenshots/completed.png" width="300"> |
