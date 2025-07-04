@@ -54,8 +54,6 @@ https://personaltasktracker.vercel.app/
 
 ## 🖼 Screenshots
 
-## 🖼 Application Screenshots
-
 <div align="center">
   
 | Login Interface | Task Management | Completed Tasks |
