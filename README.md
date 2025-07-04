@@ -22,16 +22,18 @@ A simple and intuitive personal task management application built with React. Th
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/personal-task-tracker.git
-Install dependencies:
 
-bash
+2. Install dependencies:
+
+```bash
 cd personal-task-tracker
 npm install
-Start the development server:
 
-bash
+3. Start the development server:
+```bash
 npm start
-Open the application in your browser:
+
+4. Open the application in your browser:
 http://localhost:3000
 
 🧰 Technologies Used
