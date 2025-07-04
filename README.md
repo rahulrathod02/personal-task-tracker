@@ -54,6 +54,12 @@ https://personaltasktracker.vercel.app/
 
 ## 🖼 Screenshots
 
-| Login Screen | Task Dashboard | Completed Tasks |
-|--------------|----------------|-----------------|
-| <img src="src/screenshots/login.png" width="900"> | <img src="src/screenshots/dashboard.png" width="900"> | <img src="src/screenshots/completed.png" width="900"> |
+## 🖼 Application Screenshots
+
+<div align="center">
+  
+| Login Interface | Task Management | Completed Tasks |
+|-----------------|-----------------|-----------------|
+| <img src="src/screenshots/login.png" width="400" alt="Login screen with username input"> | <img src="src/screenshots/dashboard.png" width="400" alt="Task dashboard showing filters and tasks"> | <img src="src/screenshots/completed.png" width="400" alt="Completed tasks view"> |
+
+</div>
