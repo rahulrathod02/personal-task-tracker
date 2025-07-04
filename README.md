@@ -56,4 +56,4 @@ https://personaltasktracker.vercel.app/
 
 | Login Screen | Task Dashboard | Completed Tasks |
 |--------------|----------------|-----------------|
-| <img src="src/screenshots/login.png" width="900"> | <img src="src/screenshots/dashboard.png" width="900"> | <img src="src/screenshots/completed.png" width=9300"> |
+| <img src="src/screenshots/login.png" width="900"> | <img src="src/screenshots/dashboard.png" width="900"> | <img src="src/screenshots/completed.png" width="900"> |
