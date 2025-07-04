@@ -52,4 +52,4 @@ https://personaltasktracker.vercel.app/
 
 🖼 Screenshots
 Login Screen	Task Dashboard	Completed Tasks
-https://./screenshots/login.png	https://./screenshots/dashboard.png	https://./screenshots/completed.png
+[https://./screenshots/login.png](https://github.com/rahulrathod02/personal-task-tracker/blob/39d253abbef9ca9c376ebf267b9fba47086fd888/src/screenshots/completed.png)	https://./screenshots/dashboard.png	https://./screenshots/completed.png
